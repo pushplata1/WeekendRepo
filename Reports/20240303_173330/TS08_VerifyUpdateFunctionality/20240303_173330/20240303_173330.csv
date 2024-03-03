@@ -1,0 +1,30 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS08_VerifyUpdateFunctionality,Edge Chromium 122,,,03-03-2024 17:33:35,03-03-2024 17:34:57,1m - 21.953s,PASSED
+,,,,,,,
+Test Cases/TC09_VerifyUpdateFunctionalityFromCartPage,Edge Chromium 122,,,03-03-2024 17:33:35,03-03-2024 17:34:57,1m - 21.776s,PASSED
+Start listener action : sampleBeforeTestCase,Edge Chromium 122,,,03-03-2024 17:33:35,03-03-2024 17:33:35,0.049s,PASSED
+Start listener action : sampleBeforeTestCase,Edge Chromium 122,,,03-03-2024 17:33:35,03-03-2024 17:33:35,0.007s,PASSED
+"openBrowser("""")",Edge Chromium 122,,,03-03-2024 17:33:35,03-03-2024 17:33:40,4.626s,PASSED
+"navigateToUrl(""https://petstore.octoperf.com/"")",Edge Chromium 122,,,03-03-2024 17:33:40,03-03-2024 17:33:41,1.565s,PASSED
+maximizeWindow(),Edge Chromium 122,,,03-03-2024 17:33:41,03-03-2024 17:33:42,0.159s,PASSED
+"click(findTestObject(""Object Repository/Page_JPetStore Demo/a_Enter the Store""))",Edge Chromium 122,,,03-03-2024 17:33:42,03-03-2024 17:33:43,1.408s,PASSED
+"click(findTestObject(""Object Repository/Page_JPetStore Demo/a_Sign In""))",Edge Chromium 122,,,03-03-2024 17:33:43,03-03-2024 17:33:44,0.587s,PASSED
+"setText(findTestObject(""Object Repository/Page_JPetStore Demo/username""), ""Pushp"")",Edge Chromium 122,,,03-03-2024 17:33:44,03-03-2024 17:33:44,0.666s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_JPetStore Demo/password""), ""iGDxf8hSRT4="")",Edge Chromium 122,,,03-03-2024 17:33:44,03-03-2024 17:33:45,0.378s,PASSED
+"click(findTestObject(""Object Repository/Page_JPetStore Demo/input_Need a user name and password_signon""))",Edge Chromium 122,,,03-03-2024 17:33:45,03-03-2024 17:33:45,0.857s,PASSED
+"click(findTestObject(""Object Repository/Page_JPetStore Demo/FishImg""))",Edge Chromium 122,,,03-03-2024 17:33:45,03-03-2024 17:33:46,0.572s,PASSED
+"click(findTestObject(""Object Repository/Page_JPetStore Demo/div_FishProduct IDNameFI-SW-01AngelfishFI-S_1fe894""))",Edge Chromium 122,,,03-03-2024 17:33:46,03-03-2024 17:33:46,0.335s,PASSED
+"click(findTestObject(""Object Repository/Page_JPetStore Demo/a_FI-SW-01""))",Edge Chromium 122,,,03-03-2024 17:33:46,03-03-2024 17:33:47,0.616s,PASSED
+"click(findTestObject(""Object Repository/Page_JPetStore Demo/a_Add to Cart""))",Edge Chromium 122,,,03-03-2024 17:33:47,03-03-2024 17:33:48,0.605s,PASSED
+"setText(findTestObject(""Object Repository/Page_JPetStore Demo/sizeTextBox""), ""5"")",Edge Chromium 122,,,03-03-2024 17:33:48,03-03-2024 17:33:48,0.619s,PASSED
+"click(findTestObject(""Object Repository/Page_JPetStore Demo/input_Need a user name and password_password""))",Edge Chromium 122,,,03-03-2024 17:33:48,03-03-2024 17:34:20,31.830s,PASSED
+"click(findTestObject(""Object Repository/Page_JPetStore Demo/DogQuickLink""))",Edge Chromium 122,,,03-03-2024 17:34:20,03-03-2024 17:34:21,0.654s,PASSED
+"click(findTestObject(""Object Repository/Page_JPetStore Demo/a_K9-DL-01""))",Edge Chromium 122,,,03-03-2024 17:34:21,03-03-2024 17:34:21,0.574s,PASSED
+"click(findTestObject(""Object Repository/Page_JPetStore Demo/a_Add to Cart_1""))",Edge Chromium 122,,,03-03-2024 17:34:21,03-03-2024 17:34:22,0.574s,PASSED
+"setText(findTestObject(""Object Repository/Page_JPetStore Demo/sizeTextBox""), ""3"")",Edge Chromium 122,,,03-03-2024 17:34:22,03-03-2024 17:34:22,0.600s,PASSED
+"click(findTestObject(""Object Repository/Page_JPetStore Demo/input_Need a user name and password_password""))",Edge Chromium 122,,,03-03-2024 17:34:22,03-03-2024 17:34:54,32.035s,PASSED
+"click(findTestObject(""Object Repository/Page_JPetStore Demo/a_Proceed to Checkout""))",Edge Chromium 122,,,03-03-2024 17:34:54,03-03-2024 17:34:55,0.570s,PASSED
+"click(findTestObject(""Object Repository/Page_JPetStore Demo/input_Need a user name and password_password""))",Edge Chromium 122,,,03-03-2024 17:34:55,03-03-2024 17:34:56,0.544s,PASSED
+"click(findTestObject(""Object Repository/Page_JPetStore Demo/a_Confirm""))",Edge Chromium 122,,,03-03-2024 17:34:56,03-03-2024 17:34:56,0.634s,PASSED
+closeBrowser(),Edge Chromium 122,,,03-03-2024 17:34:56,03-03-2024 17:34:57,0.556s,PASSED
+Start listener action : sampleAfterTestCase,Edge Chromium 122,,,03-03-2024 17:34:57,03-03-2024 17:34:57,0.003s,PASSED

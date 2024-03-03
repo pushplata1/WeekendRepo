@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_AddToCartWithoutLogin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d50aa6c4-e072-41f6-8453-0f79cb788cb9</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS12_VerifyNavigationBatisLink,Edge Chromium 122,,,03-03-2024 18:18:45,03-03-2024 18:18:59,13.809s,PASSED
+,,,,,,,
+Test Cases/TC15_VeifyBatisLink,Edge Chromium 122,,,03-03-2024 18:18:45,03-03-2024 18:18:59,13.591s,PASSED
+Start listener action : sampleBeforeTestCase,Edge Chromium 122,,,03-03-2024 18:18:45,03-03-2024 18:18:45,0.044s,PASSED
+Start listener action : sampleBeforeTestCase,Edge Chromium 122,,,03-03-2024 18:18:45,03-03-2024 18:18:45,0.007s,PASSED
+"openBrowser("""")",Edge Chromium 122,,,03-03-2024 18:18:46,03-03-2024 18:18:50,4.712s,PASSED
+"navigateToUrl(""https://petstore.octoperf.com/"")",Edge Chromium 122,,,03-03-2024 18:18:50,03-03-2024 18:18:52,1.433s,PASSED
+maximizeWindow(),Edge Chromium 122,,,03-03-2024 18:18:52,03-03-2024 18:18:52,0.181s,PASSED
+"click(findTestObject(""Object Repository/Page_JPetStore Demo/a_Enter the Store""))",Edge Chromium 122,,,03-03-2024 18:18:52,03-03-2024 18:18:54,1.629s,PASSED
+"click(findTestObject(""Object Repository/Page_JPetStore Demo/a_www.mybatis.org""))",Edge Chromium 122,,,03-03-2024 18:18:54,03-03-2024 18:18:58,4.634s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_The MyBatis Blog/a_MyBatis 3.5.11 released""), ""MyBatis 3.5.11 released!"")",Edge Chromium 122,,,03-03-2024 18:18:58,03-03-2024 18:18:58,0.326s,PASSED
+back(),Edge Chromium 122,,,03-03-2024 18:18:58,03-03-2024 18:18:59,0.048s,PASSED
+closeBrowser(),Edge Chromium 122,,,03-03-2024 18:18:59,03-03-2024 18:18:59,0.409s,PASSED
+Start listener action : sampleAfterTestCase,Edge Chromium 122,,,03-03-2024 18:18:59,03-03-2024 18:18:59,0.003s,PASSED

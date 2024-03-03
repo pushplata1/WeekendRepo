@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC11_VerifyRemoveFunctionalityWithoutLogin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a9b73131-ecff-4888-a6fd-79346976a8d3</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC10_VerifyRemoveFunctionalityMoreThan4Product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>95c2b6ba-8d75-43b8-95a4-e5cf95466fa0</testCaseGuid>
+</TestCaseEntity>

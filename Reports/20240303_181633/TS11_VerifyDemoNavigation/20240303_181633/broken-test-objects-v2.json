@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_JPetStore Demo/a_Add to Cart",
+      "brokenLocator": "//div[@id\u003d\u0027Catalog\u0027]/table/tbody/tr[7]/td/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[contains(text(),\u0027Add to Cart\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240303_181633/TS11_VerifyDemoNavigation/20240303_181633/Object Repository/Page_JPetStore Demo/a_Add to Cart_link.png"
+    }
+  ]
+}

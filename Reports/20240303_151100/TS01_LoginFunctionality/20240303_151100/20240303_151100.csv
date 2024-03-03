@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS01_LoginFunctionality,Edge Chromium 122,,,03-03-2024 15:11:12,03-03-2024 15:11:33,20.986s,PASSED
+,,,,,,,
+Test Cases/TC01_VerifyLoginFunctionality,Edge Chromium 122,,,03-03-2024 15:11:12,03-03-2024 15:11:33,20.600s,PASSED
+"openBrowser("""")",Edge Chromium 122,,,03-03-2024 15:11:13,03-03-2024 15:11:23,10.077s,PASSED
+"navigateToUrl(""https://petstore.octoperf.com/"")",Edge Chromium 122,,,03-03-2024 15:11:23,03-03-2024 15:11:25,1.712s,PASSED
+"click(findTestObject(""Object Repository/Page_JPetStore Demo/a_Enter the Store""))",Edge Chromium 122,,,03-03-2024 15:11:25,03-03-2024 15:11:27,2.296s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_JPetStore Demo/a_Sign In""), ""Sign In"")",Edge Chromium 122,,,03-03-2024 15:11:27,03-03-2024 15:11:28,0.514s,PASSED
+"click(findTestObject(""Object Repository/Page_JPetStore Demo/a_Sign In""))",Edge Chromium 122,,,03-03-2024 15:11:28,03-03-2024 15:11:28,0.895s,PASSED
+"setText(findTestObject(""Object Repository/Page_JPetStore Demo/input_Need a user name and password_username""), ""Pushp"")",Edge Chromium 122,,,03-03-2024 15:11:28,03-03-2024 15:11:29,0.885s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_JPetStore Demo/input_Need a user name and password_password""), ""iGDxf8hSRT4="")",Edge Chromium 122,,,03-03-2024 15:11:29,03-03-2024 15:11:30,0.491s,PASSED
+"click(findTestObject(""Object Repository/Page_JPetStore Demo/input_Need a user name and password_signon""))",Edge Chromium 122,,,03-03-2024 15:11:30,03-03-2024 15:11:31,1.233s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_JPetStore Demo/div_Welcome Pushp""), ""Welcome Pushp!"")",Edge Chromium 122,,,03-03-2024 15:11:31,03-03-2024 15:11:32,0.475s,PASSED
+closeBrowser(),Edge Chromium 122,,,03-03-2024 15:11:32,03-03-2024 15:11:33,1.408s,PASSED
