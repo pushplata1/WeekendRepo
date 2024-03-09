@@ -31,7 +31,7 @@ WebUI.click(findTestObject('Object Repository/Page_JPetStore Demo/a_Sign In'))
 
 WebUI.setText(findTestObject('Object Repository/Page_JPetStore Demo/username'), 'Pushp')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_JPetStore Demo/input_Need a user name and password_password'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_JPetStore Demo/password'), 
     'iGDxf8hSRT4=')
 
 WebUI.click(findTestObject('Object Repository/Page_JPetStore Demo/input_Need a user name and password_signon'))
