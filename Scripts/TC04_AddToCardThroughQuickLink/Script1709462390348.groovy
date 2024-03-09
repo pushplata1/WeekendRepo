@@ -40,7 +40,7 @@ WebUI.click(findTestObject('Object Repository/Page_JPetStore Demo/a_FI-SW-01'))
 
 WebUI.click(findTestObject('Object Repository/Page_JPetStore Demo/a_Add to Cart'))
 
-WebUI.click(findTestObject('Object Repository/Page_JPetStore Demo/input_Need a user name and password_password'))
+WebUI.click(findTestObject('Object Repository/Page_JPetStore Demo/updatedQuantity'))
 
 WebUI.click(findTestObject('Object Repository/Page_JPetStore Demo/DogQuickLink'))
 
@@ -48,7 +48,7 @@ WebUI.click(findTestObject('Object Repository/Page_JPetStore Demo/a_K9-PO-02'))
 
 WebUI.click(findTestObject('Object Repository/Page_JPetStore Demo/a_Add to Cart_1'))
 
-WebUI.click(findTestObject('Object Repository/Page_JPetStore Demo/input_Need a user name and password_password'))
+WebUI.click(findTestObject('Object Repository/Page_JPetStore Demo/updatedQuantity'))
 
 WebUI.click(findTestObject('Object Repository/Page_JPetStore Demo/a_Proceed to Checkout'))
 
